@@ -10,7 +10,7 @@ This project applies **Logistic Regression** for binary classification.
 The notebook covers:
 - Data preprocessing
 - Model training
-- Evaluation (accuracy score and confusion matrix)
+- Evaluation (accuracy score)
 
 ## How to run
 1. Install Python 3.10+ and Jupyter.
