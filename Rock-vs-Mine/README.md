@@ -18,19 +18,12 @@ The notebook covers:
    ```bash
    pip install -r requirements.txt
 
-How to run
+3. Open the notebook:
+     jupyter notebook Rock-vs-Mine.ipynb
 
-Install Python 3.10+ and Jupyter.
+4. Run all cells.
 
-Install dependencies:
-pip install -r requirements.txt
-
-Open the notebook:
-jupyter notebook Rock-vs-Mine.ipynb
-
-Run all cells.
-
-Data
+## Data
 
 The dataset used is data/Sonar data.csv.
 It contains sonar signal data used to classify rocks vs mines.
